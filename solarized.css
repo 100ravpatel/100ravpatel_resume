@@ -22,7 +22,7 @@ body {
   }
 .resume .left-sec {
     width: 280px;
-    background-color:rgb(194, 199, 133);
+    background-color:#586e75;
 }
 .left-sec-img {
     height: 400;
@@ -45,6 +45,7 @@ body {
 .left-sec li,
 .skills,
 .social{
+    color: #fff;
     padding: 0 7% 0 7%;
 }
 .resume .left-sec ul{
@@ -88,7 +89,7 @@ body {
 .data p a,
 .data a{
     text-decoration: none;
-    color: #333;
+    color: #fff;
 }
 
 .resume .skills .title p,
@@ -104,7 +105,7 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
-    color: #333 ;
+    color: #fff ;
 }
 .resume .left-sec .skills ul li .sk-name{
     width: 25%;
@@ -114,7 +115,7 @@ body {
     margin: 0 5px;
     height: 5px;
     position: relative;
-    background: #918d8d;
+    background: #fff;
 }
 .resume .left-sec .skills ul li .sk-p{
     width: 15%;
