@@ -67,6 +67,7 @@ body {
 .left-sec-name p,
 .left-sec li,
 .skills,
+.project,
 .social{
     padding: 0 7% 0 7%;
 }
@@ -115,6 +116,7 @@ body {
 }
 
 .resume .skills .title p,
+.resume .project .title p,
 .resume .social .title p{
     padding-top: 8px;
     font-size: 20px;
@@ -149,7 +151,20 @@ body {
     height: 100%;
     background:  #333;
 }
+.project{
+    padding: 0 7% 0 7%;
+}
+.resume .project .title p{
+    padding-top: 8px;
+    font-size: 20px;
+}
 
+.project ul li a{
+    text-decoration: none;
+    color: #333;
+    letter-spacing: 1px;
+    
+}
 .social ul li {
     padding-left: 0;
 }

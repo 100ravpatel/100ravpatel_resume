@@ -151,6 +151,21 @@ body {
     background:  #333;
 }
 
+.project{
+    padding: 0 7% 0 7%;
+}
+.resume .project .title p{
+    padding-top: 8px;
+    font-size: 20px;
+}
+
+.project ul li a{
+    text-decoration: none;
+    color: #333;
+    letter-spacing: 1px;
+    
+}
+
 .social ul li {
     padding-left: 0;
 }
