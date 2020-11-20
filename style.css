@@ -24,6 +24,7 @@ body {
     padding-bottom: 2px;
 }
 .theme a i{
+    
     color: #586e75;
 }
 .theme #sec{
@@ -164,6 +165,9 @@ body {
     color: #333;
     letter-spacing: 1px;
     
+}
+.project ul li a:hover{
+    font-size: medium;
 }
 .social ul li {
     padding-left: 0;
